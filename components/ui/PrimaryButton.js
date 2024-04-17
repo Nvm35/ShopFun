@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
   buttonText: {
     textAlign: 'center',
     color: 'white',
-    fontSize: 18,
+    fontSize: 24,
     fontFamily: 'Jersey'
   },
   outerContainer: {
